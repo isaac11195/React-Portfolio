@@ -1,7 +1,7 @@
 let resumeData = {
     "name": "Isaac Perez",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "role": "Coding Developer and Electrical engineer",
+    "linkedinId":"isaacperez35965b12b",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I just finish my bachellor Electical Engineering. I am studying to finish my license of FE for Engineer and studying at UFC for coding development.",
     "address":"Florida",
     "education":[
       {
