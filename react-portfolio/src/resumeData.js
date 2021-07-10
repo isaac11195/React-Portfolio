@@ -75,12 +75,13 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":""
+        "imgurl":"images/portfolio/lyric.png"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/rentalpuppy.jpg"
+        "imgurl":"images/portfolio/rentalpuppy.png",
+        "a.href":"https://pimp-my-puppy.herokuapp.com/"
       }
     ],
     "testimonials":[
