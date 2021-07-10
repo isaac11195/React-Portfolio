@@ -1,16 +1,22 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
+# React-Portfolio
 
+## Purpose
+The purpose is to upgrade the portfolio and put it with new commands and new application of the models.
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+## Built With
+* JavaScript
+* Package.json
+* Node.js
+* Express.js
+* jquery.js
+* Lite-server
+## Website
 
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+https://github.com/isaac11195/Budget-Tracker
+https://evening-meadow-34879.herokuapp.com/
 
-## How to use
-1. Clone/Download the repo.
-2. Run  ``` npm install ```.
-3. Change the values in ```src/resumeData.js``` to suit your use-case.
-4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
-5. Make required changes in ```src/resumeData.js``` to suit your needs.
+## Contribution
+Helps from GitHubs, modules and google.
+
+### ©️2021 Budget-Tracker
 
