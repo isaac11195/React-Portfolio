@@ -2,8 +2,7 @@ let resumeData = {
     "name": "Isaac Perez",
     "role": "Coding Developer and Electrical engineer",
     "linkedinId":"isaacperez35965b12b",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am person responsible during work and take very serious with the jobs and assignment.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -75,19 +74,19 @@ let resumeData = {
       
       {
         "name":"project1",
-        "description":"lyricsong",
-        "imgurl":"images/portfolio/lyric.jpg"
+        "description":"mobileapp",
+        "imgurl":""
       },
       {
         "name":"project2",
-        "description":"rentaldog",
+        "description":"mobileapp",
         "imgurl":"images/portfolio/rentalpuppy.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"This programs work very well and the programs works amazing",
+        "name":"Catalino Salas"
       },
       {
         "description":"This is a sample testimonial",
