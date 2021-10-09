@@ -5,12 +5,13 @@ The purpose is to upgrade the portfolio add new application of the modals and th
 
 
 ## Built With
+* CSS
+* npx create-react-app
 * JavaScript
 * Package.json
 * Node.js
 * Express.js
 * jquery.js
-* Lite-server
 * deploy-pages
 ## Website
 
